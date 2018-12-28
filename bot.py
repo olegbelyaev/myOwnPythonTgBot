@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import cofig
 import telebot
+import parser
 
 bot = telebot.TeleBot(cofig.token)
 
