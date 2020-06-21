@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import cofig
 import telebot
 token = '878350380:AAHqSNWtOXQvzESImpZmZSM5152r9YdypkE'
 bot = telebot.TeleBot(token)
